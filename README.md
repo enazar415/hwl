@@ -2,4 +2,4 @@
 
 
 
-Change Language D:\Hogwarts Legacy\Engine\Binaries\ThirdParty\Steamworks\Steamv154\Win64
+Change Language D:\HogwartsLegacy\Engine\Binaries\ThirdParty\Steamworks\Steamv154\Win64
